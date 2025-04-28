@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 cuid="261" tvg-name="Universal Reality 🇧🇷" tvg-id="UNIVERSALREALITY" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/universalreality.png" group-title="🌈🆁™ Brasil 🇧🇷",Universal Reality 🇧🇷
-#EXTVLCOPT:http-user-agent=Wink/1.31.1
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689605&extension=ts
-#EXTINF:-1 cuid="262" tvg-name="Universal Premiere 🇧🇷" tvg-id="UNIVERSALPREMIERE" user-agent="Wink/1.31.1" tvg-logo="https://logo.iptveditor.com/universalpremiere.png" group-title="🌈🆁™ Brasil 🇧🇷",Universal Premiere 🇧🇷
-#EXTVLCOPT:http-user-agent=Wink/1.31.1
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689606&extension=ts
-
 
 
 #EXTINF:-1 cuid="263" tvg-name="Telecine Premium" tvg-id="TELECINEPREMIUM" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="🌈🆁™ Brasil 🇧🇷",Telecine Premium 🇧🇷
